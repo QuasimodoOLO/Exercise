@@ -1,2 +1,2 @@
 # Exercise
-This is an exercise about how to simply address the data format(JSON)
+This is an exercise about how to address the data to transform the JSON format simply
